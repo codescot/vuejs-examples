@@ -8,24 +8,24 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.18",
-    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/vue-fontawesome": "^0.1.6",
-    "@types/lodash": "^4.14.133",
-    "axios": "^0.18.0",
-    "lodash": "^4.17.11",
+    "@types/lodash": "^4.14.136",
+    "axios": "^0.18.1",
+    "lodash": "^4.17.14",
     "vue": "^2.6.10",
     "vue-class-component": "^7.1.0",
-    "vue-property-decorator": "^8.1.1",
-    "vue-router": "^3.0.6"
+    "vue-property-decorator": "^8.2.1",
+    "vue-router": "^3.0.7"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.8.0",
-    "@vue/cli-plugin-typescript": "^3.8.1",
-    "@vue/cli-service": "^3.8.0",
+    "@vue/cli-plugin-babel": "^3.9.2",
+    "@vue/cli-plugin-typescript": "^3.9.0",
+    "@vue/cli-service": "^3.9.2",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0",
-    "typescript": "^3.5.1",
+    "typescript": "^3.5.3",
     "vue-template-compiler": "^2.6.10"
   },
   "postcss": {
