@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/logo.png" />
     <h3>VueJS Examples</h3>
     <ul>
       <li v-for="(project, i) in projects" :key="i">
@@ -25,32 +25,32 @@ export default {
       {
         name: 'VueJS Home',
         url: 'https://gee.dev',
-        repo: 'https://github.com/geescot/vuejs-examples/home'
+        repo: 'https://github.com/geescot/vuejs-examples'
       },
       {
         name: 'VueJS Components',
         url: 'https://vuejs-components.gee.dev',
-        repo: 'https://github.com/geescot/vuejs-examples/components'
+        repo: 'https://github.com/geescot/vuejs-examples'
       },
       {
         name: 'VueJS Lodash',
         url: 'https://vuejs-lodash.gee.dev',
-        repo: 'https://github.com/geescot/vuejs-examples/lodash'
+        repo: 'https://github.com/geescot/vuejs-examples'
       },
       {
         name: 'VueJS SVG',
         url: 'https://vuejs-svg.gee.dev',
-        repo: 'https://github.com/geescot/vuejs-examples/svg'
+        repo: 'https://github.com/geescot/vuejs-examples'
       },
       {
         name: 'VueJS Vuex',
         url: 'https://vuejs-vuex.gee.dev',
-        repo: 'https://github.com/geescot/vuejs-examples/vuex'
+        repo: 'https://github.com/geescot/vuejs-examples'
       },
       {
         name: 'VueJS Vuex Storage',
         url: 'https://vuejs-vuex-storage.gee.dev',
-        repo: 'https://github.com/geescot/vuejs-examples/vuex-storage'
+        repo: 'https://github.com/geescot/vuejs-examples'
       }
     ];
   },
