@@ -1,0 +1,18 @@
+$primary: #2F97C1;
+$success: #58BC82;
+$warning: #E3C16F;
+$danger: #DB5461;
+
+%thin-border {
+  border-radius: 4px;
+  border-width: thin;
+  border-style: solid;
+}
+
+@function darker($color) {
+  @return darken($color, 9%);
+}
+
+@function darkest($color) {
+  @return darken($color, 18%);
+}
