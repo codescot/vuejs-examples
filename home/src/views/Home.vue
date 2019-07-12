@@ -25,32 +25,32 @@ export default {
       {
         name: 'VueJS Home',
         url: 'https://gee.dev',
-        repo: 'https://github.com/gurparit/vuejs-home'
+        repo: 'https://github.com/geescot/vuejs-examples/home'
       },
       {
         name: 'VueJS Components',
         url: 'https://vuejs-components.gee.dev',
-        repo: 'https://github.com/gurparit/vuejs-components'
+        repo: 'https://github.com/geescot/vuejs-examples/components'
       },
       {
         name: 'VueJS Lodash',
         url: 'https://vuejs-lodash.gee.dev',
-        repo: 'https://github.com/gurparit/vuejs-lodash'
+        repo: 'https://github.com/geescot/vuejs-examples/lodash'
       },
       {
         name: 'VueJS SVG',
         url: 'https://vuejs-svg.gee.dev',
-        repo: 'https://github.com/gurparit/vuejs-svg'
+        repo: 'https://github.com/geescot/vuejs-examples/svg'
       },
       {
         name: 'VueJS Vuex',
         url: 'https://vuejs-vuex.gee.dev',
-        repo: 'https://github.com/gurparit/vuejs-vuex'
+        repo: 'https://github.com/geescot/vuejs-examples/vuex'
       },
       {
         name: 'VueJS Vuex Storage',
         url: 'https://vuejs-vuex-storage.gee.dev',
-        repo: 'https://github.com/gurparit/vuejs-vuex-storage'
+        repo: 'https://github.com/geescot/vuejs-examples/vuex-storage'
       }
     ];
   },
