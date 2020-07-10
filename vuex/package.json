@@ -1,0 +1,44 @@
+{
+  "name": "vuejs-vuex",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "@types/lodash": "^4.14.157",
+    "axios": "^0.18.1",
+    "core-js": "^3.6.5",
+    "lodash": "^4.17.19",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^8.5.1",
+    "vue-router": "^3.3.4",
+    "vuex": "^3.5.1",
+    "vuex-class": "^0.3.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.6",
+    "@vue/cli-plugin-typescript": "^4.4.6",
+    "@vue/cli-service": "^4.4.6",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.2",
+    "typescript": "~3.9.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
